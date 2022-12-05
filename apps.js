@@ -26,3 +26,6 @@ function Previous(){
     }
     tere.src = room[laptop]
 }
+setInterval(function(){
+    Next()
+},1000)
