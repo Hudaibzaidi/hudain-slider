@@ -1,0 +1,32 @@
+.image{
+    margin-left: 270px;
+}
+.nextbtn{
+    margin-left: 500px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 20px;
+    color: rgb(7, 7, 7);
+}
+.nextbtn:hover{
+    box-shadow: 10px;
+    background-color: black;
+    color: white;
+
+}
+.previbtn{
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    border-radius: 20px;
+    color: rgb(7, 7, 7);
+}
+.previbtn:hover{
+    box-shadow: 10px;
+    background-color: black;
+    color: white;
+}
